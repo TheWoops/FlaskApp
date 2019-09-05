@@ -1,5 +1,5 @@
 
 
-App deployed [here](http://thewoops.pythonanywhere.com/)
+**App deployed [here](http://thewoops.pythonanywhere.com/)**
 
 
