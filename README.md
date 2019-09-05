@@ -1,7 +1,6 @@
 
 
-**App deployed [here](http://thewoops.pythonanywhere.com/){:target="_blank"}**
+**App deployed [here](http://thewoops.pythonanywhere.com/)**
 
-<a href="example.com" target="_blank">New Tab</a>
 
 
