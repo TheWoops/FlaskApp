@@ -1,6 +1,6 @@
 
 
-**App deployed [here](http://thewoops.pythonanywhere.com/)**
+**App was deployed [here](http://thewoops.pythonanywhere.com/) (not active anymore)**
 
 
 
